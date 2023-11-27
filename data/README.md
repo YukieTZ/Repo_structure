@@ -1,1 +1,1 @@
-Carpeta con datos
+Carpeta con bases de datos originales
