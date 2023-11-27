@@ -1,1 +1,1 @@
-Carpeta con resultados
+Carpeta con bases de datos limpias y analizadas
